@@ -1,8 +1,8 @@
 # Dashboard de Fluxo de Caixa  — Power BI
-*Link do Projeto: https://gustagtdev.github.io/Dashboard-Fluxo-de-Caixa/*
---
-Dashboard desenvolvido no **Microsoft Power BI** para análise e acompanhamento de movimentações financeiras, permitindo visualizar receitas, despesas, saldo, margem e evolução financeira ao longo do período analisado.
 
+Dashboard desenvolvido no **Microsoft Power BI** para análise e acompanhamento de movimentações financeiras, permitindo visualizar receitas, despesas, saldo, margem e evolução financeira ao longo do período analisado.
+\
+Link do Projeto: https://gustagtdev.github.io/Dashboard-Fluxo-de-Caixa/
 ---
 
 ## 🎯 Objetivo
